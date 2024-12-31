@@ -1,11 +1,11 @@
 import React from "react";
 import "./HomePage.styles.scss";
 import { Link } from "react-router-dom";
-import shoesImage from "/Users/sanjaysingh/Desktop/my-portfolio/public/White and Black Simple Shoes Store Logo.png";
-import trackerImage from "/Users/sanjaysingh/Desktop/my-portfolio/public/tip-tracker.png";
-import clothingImage from "/Users/sanjaysingh/Desktop/my-portfolio/public/CRWN-Clothing.png";
-import javascriptlogo from "/Users/sanjaysingh/Desktop/my-portfolio/public/JavaScript-logo.png";
-import reduxlogo from "/Users/sanjaysingh/Desktop/my-portfolio/public/redux.png";
+import shoesImage from "/public/White and Black Simple Shoes Store Logo.png";
+import trackerImage from "/public/tip-tracker.png";
+import clothingImage from "/public/CRWN-Clothing.png";
+import javascriptlogo from "/public/JavaScript-logo.png";
+import reduxlogo from "/public/redux.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 

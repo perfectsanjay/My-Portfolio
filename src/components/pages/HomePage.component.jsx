@@ -1,6 +1,5 @@
 import React from "react";
 import "./HomePage.styles.scss";
-import { Link } from "react-router-dom";
 import shoesImage from "/public/White and Black Simple Shoes Store Logo.png";
 import trackerImage from "/public/tip-tracker.png";
 import clothingImage from "/public/CRWN-Clothing.png";
